@@ -9,7 +9,7 @@ from bs4 import BeautifulSoup
 import requests 
 import pandas as pd
 
-path = r'C:\Users\aacac\OneDrive\Área de Trabalho\Ciência de Dados - Uni7\ETL\Datasets\\'
+path = r'C:\projeto-ETL\\'
 
 #alterando a linguagem 
 headers = {'Accept-Language': 'en-US,en;q=0.5'}
