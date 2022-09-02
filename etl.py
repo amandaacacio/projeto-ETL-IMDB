@@ -9,10 +9,10 @@ import wget
 import gzip
 import shutil
 
-path = r'C:\projeto-ETL\\'
+path = r'C:\projeto-ETL\Datasets\\'
 
 #baixando o arquivo tsv do imdb
-wget.download('https://datasets.imdbws.com/title.basics.tsv.gz')
+wget.download('https://datasets.imdbws.com/title.basics.tsv.gz', out=path)
 
 #descompactanto o arquivo tsv do imdb
 with gzip.open(path+'title.basics.tsv.gz', 'rb') as entrada:

@@ -9,13 +9,13 @@ from bs4 import BeautifulSoup
 import requests 
 import pandas as pd
 
-path = r'C:\projeto-ETL\\'
+path = r'C:\projeto-ETL\Datasets\\'
 
 #alterando a linguagem 
 headers = {'Accept-Language': 'en-US,en;q=0.5'}
 
 #Acessando o site do IMDB
-source = requests.get('    ', headers=headers)
+source = requests.get('https://www.imdb.com/chart/top/', headers=headers)
 
 #Verificando status de erro  
 source.raise_for_status()
