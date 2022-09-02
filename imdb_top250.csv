@@ -1,0 +1,251 @@
+Title;Year;Rank;Rating;tconst;titleType;primaryTitle;originalTitle;isAdult;startYear;runtimeMinutes;genres
+The Shawshank Redemption;1994;1;9.2;tt0111161;movie;The Shawshank Redemption;The Shawshank Redemption;0.0;1994.0;142;Drama
+The Godfather;1972;2;9.2;tt0068646;movie;The Godfather;The Godfather;0.0;1972.0;175;Crime,Drama
+The Dark Knight;2008;3;9.0;tt0468569;movie;The Dark Knight;The Dark Knight;0.0;2008.0;152;Action,Crime,Drama
+The Godfather Part II;1974;4;9.0;tt0071562;movie;The Godfather Part II;The Godfather Part II;0.0;1974.0;202;Crime,Drama
+12 Angry Men;1957;5;8.9;tt0050083;movie;12 Angry Men;12 Angry Men;0.0;1957.0;96;Crime,Drama
+Schindler's List;1993;6;8.9;tt0108052;movie;Schindler's List;Schindler's List;0.0;1993.0;195;Biography,Drama,History
+The Lord of the Rings: The Return of the King;2003;7;8.9;tt0167260;movie;The Lord of the Rings: The Return of the King;The Lord of the Rings: The Return of the King;0.0;2003.0;201;Action,Adventure,Drama
+Pulp Fiction;1994;8;8.8;tt0110912;movie;Pulp Fiction;Pulp Fiction;0.0;1994.0;154;Crime,Drama
+The Lord of the Rings: The Fellowship of the Ring;2001;9;8.8;tt0120737;movie;The Lord of the Rings: The Fellowship of the Ring;The Lord of the Rings: The Fellowship of the Ring;0.0;2001.0;178;Action,Adventure,Drama
+The Good, the Bad and the Ugly;1966;10;8.8;tt0060196;movie;The Good, the Bad and the Ugly;Il buono, il brutto, il cattivo;0.0;1966.0;161;Adventure,Western
+Forrest Gump;1994;11;8.8;tt0109830;movie;Forrest Gump;Forrest Gump;0.0;1994.0;142;Drama,Romance
+Fight Club;1999;12;8.7;tt0137523;movie;Fight Club;Fight Club;0.0;1999.0;139;Drama
+Inception;2010;13;8.7;tt1375666;movie;Inception;Inception;0.0;2010.0;148;Action,Adventure,Sci-Fi
+The Lord of the Rings: The Two Towers;2002;14;8.7;tt0167261;movie;The Lord of the Rings: The Two Towers;The Lord of the Rings: The Two Towers;0.0;2002.0;179;Action,Adventure,Drama
+Star Wars: Episode V - The Empire Strikes Back;1980;15;8.7;tt0080684;movie;Star Wars: Episode V - The Empire Strikes Back;The Empire Strikes Back;0.0;1980.0;124;Action,Adventure,Fantasy
+The Matrix;1999;16;8.7;tt0133093;movie;The Matrix;The Matrix;0.0;1999.0;136;Action,Sci-Fi
+Goodfellas;1990;17;8.7;tt0099685;movie;Goodfellas;Goodfellas;0.0;1990.0;145;Biography,Crime,Drama
+One Flew Over the Cuckoo's Nest;1975;18;8.6;tt0073486;movie;One Flew Over the Cuckoo's Nest;One Flew Over the Cuckoo's Nest;0.0;1975.0;133;Drama
+Se7en;1995;19;8.6;tt0114369;movie;Se7en;Se7en;0.0;1995.0;127;Crime,Drama,Mystery
+Seven Samurai;1954;20;8.6;tt0047478;movie;Seven Samurai;Shichinin no samurai;0.0;1954.0;207;Action,Drama
+It's a Wonderful Life;1946;21;8.6;tt0038650;movie;It's a Wonderful Life;It's a Wonderful Life;0.0;1946.0;130;Drama,Family,Fantasy
+The Silence of the Lambs;1991;22;8.6;tt0102926;movie;The Silence of the Lambs;The Silence of the Lambs;0.0;1991.0;118;Crime,Drama,Thriller
+City of God;2002;23;8.6;tt0317248;movie;City of God;Cidade de Deus;0.0;2002.0;130;Crime,Drama
+Saving Private Ryan;1998;24;8.6;tt0120815;movie;Saving Private Ryan;Saving Private Ryan;0.0;1998.0;169;Drama,War
+Life Is Beautiful;1997;25;8.6;tt0118799;movie;Life Is Beautiful;La vita è bella;0.0;1997.0;116;Comedy,Drama,Romance
+The Green Mile;1999;26;8.6;tt0120689;movie;The Green Mile;The Green Mile;0.0;1999.0;189;Crime,Drama,Fantasy
+Interstellar;2014;27;8.6;tt0816692;movie;Interstellar;Interstellar;0.0;2014.0;169;Adventure,Drama,Sci-Fi
+Star Wars;1977;28;8.6;tt0076759;movie;Star Wars;Star Wars;0.0;1977.0;121;Action,Adventure,Fantasy
+Terminator 2: Judgment Day;1991;29;8.5;tt0103064;movie;Terminator 2: Judgment Day;Terminator 2: Judgment Day;0.0;1991.0;137;Action,Sci-Fi
+Back to the Future;1985;30;8.5;tt0088763;movie;Back to the Future;Back to the Future;0.0;1985.0;116;Adventure,Comedy,Sci-Fi
+Spirited Away;2001;31;8.5;tt0245429;movie;Spirited Away;Sen to Chihiro no kamikakushi;0.0;2001.0;125;Adventure,Animation,Family
+Psycho;1960;32;8.5;tt0054215;movie;Psycho;Psycho;0.0;1960.0;109;Horror,Mystery,Thriller
+The Pianist;2002;33;8.5;tt0253474;movie;The Pianist;The Pianist;0.0;2002.0;150;Biography,Drama,Music
+Léon: The Professional;1994;34;8.5;tt0110413;movie;Léon: The Professional;Léon;0.0;1994.0;110;Action,Crime,Drama
+Parasite;2019;35;8.5;tt6751668;movie;Parasite;Gisaengchung;0.0;2019.0;132;Comedy,Drama,Thriller
+The Lion King;1994;36;8.5;tt0110357;movie;The Lion King;The Lion King;0.0;1994.0;88;Adventure,Animation,Drama
+Gladiator;2000;37;8.5;tt0172495;movie;Gladiator;Gladiator;0.0;2000.0;155;Action,Adventure,Drama
+American History X;1998;38;8.5;tt0120586;movie;American History X;American History X;0.0;1998.0;119;Crime,Drama
+The Departed;2006;39;8.5;tt0407887;movie;The Departed;The Departed;0.0;2006.0;151;Crime,Drama,Thriller
+The Usual Suspects;1995;40;8.5;tt0114814;movie;The Usual Suspects;The Usual Suspects;0.0;1995.0;106;Crime,Drama,Mystery
+The Prestige;2006;41;8.5;tt0482571;movie;The Prestige;The Prestige;0.0;2006.0;130;Drama,Mystery,Sci-Fi
+Casablanca;1942;42;8.5;tt0034583;movie;Casablanca;Casablanca;0.0;1942.0;102;Drama,Romance,War
+Whiplash;2014;43;8.5;tt2582802;movie;Whiplash;Whiplash;0.0;2014.0;106;Drama,Music
+The Intouchables;2011;44;8.5;tt1675434;movie;The Intouchables;Intouchables;0.0;2011.0;112;Biography,Comedy,Drama
+Grave of the Fireflies;1988;45;8.5;tt0095327;movie;Grave of the Fireflies;Hotaru no haka;0.0;1988.0;89;Animation,Drama,War
+Harakiri;1962;46;8.5;tt0056058;movie;Harakiri;Seppuku;0.0;1962.0;133;Action,Drama,Mystery
+Modern Times;1936;47;8.4;tt0027977;movie;Modern Times;Modern Times;0.0;1936.0;87;Comedy,Drama,Romance
+Once Upon a Time in the West;1968;48;8.4;tt0064116;movie;Once Upon a Time in the West;C'era una volta il West;0.0;1968.0;165;Western
+Rear Window;1954;49;8.4;tt0047396;movie;Rear Window;Rear Window;0.0;1954.0;112;Mystery,Thriller
+Alien;1979;50;8.4;tt0078748;movie;Alien;Alien;0.0;1979.0;117;Horror,Sci-Fi
+City Lights;1931;51;8.4;tt0021749;movie;City Lights;City Lights;0.0;1931.0;87;Comedy,Drama,Romance
+Cinema Paradiso;1988;52;8.4;tt0095765;movie;Cinema Paradiso;Nuovo Cinema Paradiso;0.0;1988.0;155;Drama,Romance
+Apocalypse Now;1979;53;8.4;tt0078788;movie;Apocalypse Now;Apocalypse Now;0.0;1979.0;147;Drama,Mystery,War
+Memento;2000;54;8.4;tt0209144;movie;Memento;Memento;0.0;2000.0;113;Mystery,Thriller
+Indiana Jones and the Raiders of the Lost Ark;1981;55;8.4;tt0082971;movie;Indiana Jones and the Raiders of the Lost Ark;Raiders of the Lost Ark;0.0;1981.0;115;Action,Adventure
+Django Unchained;2012;56;8.4;tt1853728;movie;Django Unchained;Django Unchained;0.0;2012.0;165;Drama,Western
+WALL·E;2008;57;8.4;tt0910970;movie;WALL·E;WALL·E;0.0;2008.0;98;Adventure,Animation,Family
+The Lives of Others;2006;58;8.4;tt0405094;movie;The Lives of Others;Das Leben der Anderen;0.0;2006.0;137;Drama,Mystery,Thriller
+Sunset Blvd.;1950;59;8.4;tt0043014;movie;Sunset Blvd.;Sunset Blvd.;0.0;1950.0;110;Drama,Film-Noir
+Top Gun: Maverick;2022;60;8.4;tt1745960;movie;Top Gun: Maverick;Top Gun: Maverick;0.0;2022.0;130;Action,Drama
+Paths of Glory;1957;61;8.4;tt0050825;movie;Paths of Glory;Paths of Glory;0.0;1957.0;88;Drama,War
+The Shining;1980;62;8.4;tt0081505;movie;The Shining;The Shining;0.0;1980.0;146;Drama,Horror
+The Great Dictator;1940;63;8.4;tt0032553;movie;The Great Dictator;The Great Dictator;0.0;1940.0;125;Comedy,Drama,War
+Witness for the Prosecution;1957;64;8.4;tt0051201;movie;Witness for the Prosecution;Witness for the Prosecution;0.0;1957.0;116;Crime,Drama,Mystery
+Avengers: Infinity War;2018;65;8.4;tt4154756;movie;Avengers: Infinity War;Avengers: Infinity War;0.0;2018.0;149;Action,Adventure,Sci-Fi
+Aliens;1986;66;8.3;tt0090605;movie;Aliens;Aliens;0.0;1986.0;137;Action,Adventure,Sci-Fi
+American Beauty;1999;67;8.3;tt0169547;movie;American Beauty;American Beauty;0.0;1999.0;122;Drama
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb;1964;68;8.3;tt0057012;movie;Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb;Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb;0.0;1964.0;95;Comedy,War
+Spider-Man: Into the Spider-Verse;2018;69;8.3;tt4633694;movie;Spider-Man: Into the Spider-Verse;Spider-Man: Into the Spider-Verse;0.0;2018.0;117;Action,Adventure,Animation
+The Dark Knight Rises;2012;70;8.3;tt1345836;movie;The Dark Knight Rises;The Dark Knight Rises;0.0;2012.0;164;Action,Drama
+Oldboy;2003;71;8.3;tt0364569;movie;Oldboy;Oldeuboi;0.0;2003.0;120;Action,Drama,Mystery
+Joker;2019;72;8.3;tt7286456;movie;Joker;Joker;0.0;2019.0;122;Crime,Drama,Thriller
+Amadeus;1984;73;8.3;tt0086879;movie;Amadeus;Amadeus;0.0;1984.0;160;Biography,Drama,Music
+Braveheart;1995;74;8.3;tt0112573;movie;Braveheart;Braveheart;0.0;1995.0;178;Biography,Drama,History
+Toy Story;1995;75;8.3;tt0114709;movie;Toy Story;Toy Story;0.0;1995.0;81;Adventure,Animation,Comedy
+Coco;2017;76;8.3;tt2380307;movie;Coco;Coco;0.0;2017.0;105;Adventure,Animation,Comedy
+Inglourious Basterds;2009;77;8.3;tt0361748;movie;Inglourious Basterds;Inglourious Basterds;0.0;2009.0;153;Adventure,Drama,War
+The Boat;1981;78;8.3;tt0082096;movie;The Boat;Das Boot;0.0;1981.0;149;Drama,War
+Princess Mononoke;1997;79;8.3;tt0119698;movie;Princess Mononoke;Mononoke-hime;0.0;1997.0;134;Adventure,Animation,Fantasy
+Avengers: Endgame;2019;80;8.3;tt4154796;movie;Avengers: Endgame;Avengers: Endgame;0.0;2019.0;181;Action,Adventure,Drama
+Once Upon a Time in America;1984;81;8.3;tt0087843;movie;Once Upon a Time in America;Once Upon a Time in America;0.0;1984.0;229;Crime,Drama
+Good Will Hunting;1997;82;8.3;tt0119217;movie;Good Will Hunting;Good Will Hunting;0.0;1997.0;126;Drama,Romance
+Your Name.;2016;83;8.3;tt5311514;movie;Your Name.;Kimi no na wa.;0.0;2016.0;106;Animation,Drama,Fantasy
+Requiem for a Dream;2000;84;8.3;tt0180093;movie;Requiem for a Dream;Requiem for a Dream;0.0;2000.0;102;Drama
+Toy Story 3;2010;85;8.3;tt0435761;movie;Toy Story 3;Toy Story 3;0.0;2010.0;103;Adventure,Animation,Comedy
+Singin' in the Rain;1952;86;8.3;tt0045152;movie;Singin' in the Rain;Singin' in the Rain;0.0;1952.0;103;Comedy,Musical,Romance
+3 Idiots;2009;87;8.3;tt1187043;movie;3 Idiots;3 Idiots;0.0;2009.0;170;Comedy,Drama
+Star Wars: Episode VI - Return of the Jedi;1983;88;8.3;tt0086190;movie;Star Wars: Episode VI - Return of the Jedi;Star Wars: Episode VI - Return of the Jedi;0.0;1983.0;131;Action,Adventure,Fantasy
+High and Low;1963;89;8.3;tt0057565;movie;High and Low;Tengoku to jigoku;0.0;1963.0;143;Crime,Drama,Mystery
+2001: A Space Odyssey;1968;90;8.3;tt0062622;movie;2001: A Space Odyssey;2001: A Space Odyssey;0.0;1968.0;149;Adventure,Sci-Fi
+Eternal Sunshine of the Spotless Mind;2004;91;8.3;tt0338013;movie;Eternal Sunshine of the Spotless Mind;Eternal Sunshine of the Spotless Mind;0.0;2004.0;108;Drama,Romance,Sci-Fi
+Reservoir Dogs;1992;92;8.3;tt0105236;movie;Reservoir Dogs;Reservoir Dogs;0.0;1992.0;99;Crime,Drama,Thriller
+Capernaum;2018;93;8.3;tt8267604;movie;Capernaum;Capharnaüm;0.0;2018.0;126;Drama
+Lawrence of Arabia;1962;94;8.3;tt0056172;movie;Lawrence of Arabia;Lawrence of Arabia;0.0;1962.0;218;Adventure,Biography,Drama
+Citizen Kane;1941;95;8.3;tt0033467;movie;Citizen Kane;Citizen Kane;0.0;1941.0;119;Drama,Mystery
+The Hunt;2012;96;8.3;tt2106476;movie;The Hunt;Jagten;0.0;2012.0;115;Drama
+M;1931;97;8.3;tt0022100;movie;M;M - Eine Stadt sucht einen Mörder;0.0;1931.0;117;Crime,Mystery,Thriller
+North by Northwest;1959;98;8.3;tt0053125;movie;North by Northwest;North by Northwest;0.0;1959.0;136;Action,Adventure,Mystery
+Come and See;1985;99;8.2;tt0091251;movie;Come and See;Idi i smotri;0.0;1985.0;142;Drama,Thriller,War
+Vertigo;1958;100;8.2;tt0052357;movie;Vertigo;Vertigo;0.0;1958.0;128;Mystery,Romance,Thriller
+Amélie;2001;101;8.2;tt0211915;movie;Amélie;Le fabuleux destin d'Amélie Poulain;0.0;2001.0;122;Comedy,Romance
+A Clockwork Orange;1971;102;8.2;tt0066921;movie;A Clockwork Orange;A Clockwork Orange;0.0;1971.0;136;Crime,Sci-Fi
+Double Indemnity;1944;103;8.2;tt0036775;movie;Double Indemnity;Double Indemnity;0.0;1944.0;107;Crime,Drama,Film-Noir
+Full Metal Jacket;1987;104;8.2;tt0093058;movie;Full Metal Jacket;Full Metal Jacket;0.0;1987.0;116;Drama,War
+The Apartment;1960;105;8.2;tt0053604;movie;The Apartment;The Apartment;0.0;1960.0;125;Comedy,Drama,Romance
+Scarface;1983;106;8.2;tt0086250;movie;Scarface;Scarface;0.0;1983.0;170;Crime,Drama
+Ikiru;1952;107;8.2;tt0044741;movie;Ikiru;Ikiru;0.0;1952.0;143;Drama
+The Sting;1973;108;8.2;tt0070735;movie;The Sting;The Sting;0.0;1973.0;129;Comedy,Crime,Drama
+To Kill a Mockingbird;1962;109;8.2;tt0056592;movie;To Kill a Mockingbird;To Kill a Mockingbird;0.0;1962.0;129;Crime,Drama
+Taxi Driver;1976;110;8.2;tt0075314;movie;Taxi Driver;Taxi Driver;0.0;1976.0;114;Crime,Drama
+Heat;1995;111;8.2;tt0113277;movie;Heat;Heat;0.0;1995.0;170;Action,Crime,Drama
+Up;2009;112;8.2;tt1049413;movie;Up;Up;0.0;2009.0;96;Adventure,Animation,Comedy
+L.A. Confidential;1997;113;8.2;tt0119488;movie;L.A. Confidential;L.A. Confidential;0.0;1997.0;138;Crime,Drama,Mystery
+Metropolis;1927;114;8.2;tt0017136;movie;Metropolis;Metropolis;0.0;1927.0;153;Drama,Sci-Fi
+Incendies;2010;115;8.2;tt1255953;movie;Incendies;Incendies;0.0;2010.0;131;Drama,Mystery
+A Separation;2011;116;8.2;tt1832382;movie;A Separation;Jodaeiye Nader az Simin;0.0;2011.0;123;Drama
+Die Hard;1988;117;8.2;tt0095016;movie;Die Hard;Die Hard;0.0;1988.0;132;Action,Thriller
+Snatch;2000;118;8.2;tt0208092;movie;Snatch;Snatch;0.0;2000.0;104;Comedy,Crime
+Indiana Jones and the Last Crusade;1989;119;8.2;tt0097576;movie;Indiana Jones and the Last Crusade;Indiana Jones and the Last Crusade;0.0;1989.0;127;Action,Adventure
+Bicycle Thieves;1948;120;8.2;tt0040522;movie;Bicycle Thieves;Ladri di biciclette;0.0;1948.0;89;Drama
+Hamilton;2020;121;8.2;tt8503618;movie;Hamilton;Hamilton;0.0;2020.0;160;Biography,Drama,History
+1917;2019;122;8.2;tt8579674;movie;1917;1917;0.0;2019.0;119;Action,Drama,War
+Like Stars on Earth;2007;123;8.2;tt0986264;movie;Like Stars on Earth;Taare Zameen Par;0.0;2007.0;165;Drama,Family
+Downfall;2004;124;8.2;tt0363163;movie;Downfall;Der Untergang;0.0;2004.0;156;Biography,Drama,History
+For a Few Dollars More;1965;125;8.2;tt0059578;movie;For a Few Dollars More;Per qualche dollaro in più;0.0;1965.0;132;Western
+Batman Begins;2005;126;8.2;tt0372784;movie;Batman Begins;Batman Begins;0.0;2005.0;140;Action,Crime,Drama
+Dangal;2016;127;8.2;tt5074352;movie;Dangal;Dangal;0.0;2016.0;161;Action,Biography,Drama
+The Kid;1921;128;8.2;tt0012349;movie;The Kid;The Kid;0.0;1921.0;68;Comedy,Drama,Family
+Some Like It Hot;1959;129;8.2;tt0053291;movie;Some Like It Hot;Some Like It Hot;0.0;1959.0;121;Comedy,Music,Romance
+All About Eve;1950;130;8.2;tt0042192;movie;All About Eve;All About Eve;0.0;1950.0;138;Drama
+The Father;2020;131;8.2;tt10272386;movie;The Father;The Father;0.0;2020.0;97;Drama,Mystery
+Green Book;2018;132;8.2;tt6966692;movie;Green Book;Green Book;0.0;2018.0;130;Biography,Comedy,Drama
+The Wolf of Wall Street;2013;133;8.2;tt0993846;movie;The Wolf of Wall Street;The Wolf of Wall Street;0.0;2013.0;180;Biography,Comedy,Crime
+Spider-Man: No Way Home;2021;134;8.2;tt10872600;movie;Spider-Man: No Way Home;Spider-Man: No Way Home;0.0;2021.0;148;Action,Adventure,Fantasy
+Judgment at Nuremberg;1961;135;8.2;tt0055031;movie;Judgment at Nuremberg;Judgment at Nuremberg;0.0;1961.0;179;Drama,War
+Ran;1985;136;8.2;tt0089881;movie;Ran;Ran;0.0;1985.0;162;Action,Drama,War
+Casino;1995;137;8.2;tt0112641;movie;Casino;Casino;0.0;1995.0;178;Crime,Drama
+Unforgiven;1992;138;8.2;tt0105695;movie;Unforgiven;Unforgiven;0.0;1992.0;130;Drama,Western
+Pan's Labyrinth;2006;139;8.2;tt0457430;movie;Pan's Labyrinth;El laberinto del fauno;0.0;2006.0;118;Drama,Fantasy,War
+There Will Be Blood;2007;140;8.2;tt0469494;movie;There Will Be Blood;There Will Be Blood;0.0;2007.0;158;Drama
+The Truman Show;1998;141;8.2;tt0120382;movie;The Truman Show;The Truman Show;0.0;1998.0;103;Comedy,Drama
+The Sixth Sense;1999;142;8.2;tt0167404;movie;The Sixth Sense;The Sixth Sense;0.0;1999.0;107;Drama,Mystery,Thriller
+A Beautiful Mind;2001;143;8.2;tt0268978;movie;A Beautiful Mind;A Beautiful Mind;0.0;2001.0;135;Biography,Drama
+Monty Python and the Holy Grail;1975;144;8.2;tt0071853;movie;Monty Python and the Holy Grail;Monty Python and the Holy Grail;0.0;1975.0;91;Adventure,Comedy,Fantasy
+Yojimbo;1961;145;8.1;tt0055630;movie;Yojimbo;Yôjinbô;0.0;1961.0;110;Action,Drama,Thriller
+The Treasure of the Sierra Madre;1948;146;8.1;tt0040897;movie;The Treasure of the Sierra Madre;The Treasure of the Sierra Madre;0.0;1948.0;126;Adventure,Drama,Western
+Shutter Island;2010;147;8.1;tt1130884;movie;Shutter Island;Shutter Island;0.0;2010.0;138;Mystery,Thriller
+Jurassic Park;1993;148;8.1;tt0107290;movie;Jurassic Park;Jurassic Park;0.0;1993.0;127;Action,Adventure,Sci-Fi
+The Great Escape;1963;149;8.1;tt0057115;movie;The Great Escape;The Great Escape;0.0;1963.0;172;Adventure,Drama,History
+Rashomon;1950;150;8.1;tt0042876;movie;Rashomon;Rashômon;0.0;1950.0;88;Crime,Drama,Mystery
+Kill Bill: Vol. 1;2003;151;8.1;tt0266697;movie;Kill Bill: Vol. 1;Kill Bill: Vol. 1;0.0;2003.0;111;Action,Crime,Drama
+No Country for Old Men;2007;152;8.1;tt0477348;movie;No Country for Old Men;No Country for Old Men;0.0;2007.0;122;Crime,Drama,Thriller
+Finding Nemo;2003;153;8.1;tt0266543;movie;Finding Nemo;Finding Nemo;0.0;2003.0;100;Adventure,Animation,Comedy
+The Elephant Man;1980;154;8.1;tt0080678;movie;The Elephant Man;The Elephant Man;0.0;1980.0;124;Biography,Drama
+Chinatown;1974;155;8.1;tt0071315;movie;Chinatown;Chinatown;0.0;1974.0;130;Drama,Mystery,Thriller
+Raging Bull;1980;156;8.1;tt0081398;movie;Raging Bull;Raging Bull;0.0;1980.0;129;Biography,Drama,Sport
+The Thing;1982;157;8.1;tt0084787;movie;The Thing;The Thing;0.0;1982.0;109;Horror,Mystery,Sci-Fi
+Gone with the Wind;1939;158;8.1;tt0031381;movie;Gone with the Wind;Gone with the Wind;0.0;1939.0;238;Drama,Romance,War
+V for Vendetta;2005;159;8.1;tt0434409;movie;V for Vendetta;V for Vendetta;0.0;2005.0;132;Action,Drama,Sci-Fi
+Inside Out;2015;160;8.1;tt2096673;movie;Inside Out;Inside Out;0.0;2015.0;95;Adventure,Animation,Comedy
+Lock, Stock and Two Smoking Barrels;1998;161;8.1;tt0120735;movie;Lock, Stock and Two Smoking Barrels;Lock, Stock and Two Smoking Barrels;0.0;1998.0;107;Action,Comedy,Crime
+Dial M for Murder;1954;162;8.1;tt0046912;movie;Dial M for Murder;Dial M for Murder;0.0;1954.0;105;Crime,Thriller
+The Secret in Their Eyes;2009;163;8.1;tt1305806;movie;The Secret in Their Eyes;El secreto de sus ojos;0.0;2009.0;129;Drama,Mystery,Romance
+Howl's Moving Castle;2004;164;8.1;tt0347149;movie;Howl's Moving Castle;Hauru no ugoku shiro;0.0;2004.0;119;Adventure,Animation,Family
+The Bridge on the River Kwai;1957;165;8.1;tt0050212;movie;The Bridge on the River Kwai;The Bridge on the River Kwai;0.0;1957.0;161;Adventure,Drama,War
+Three Billboards Outside Ebbing, Missouri;2017;166;8.1;tt5027774;movie;Three Billboards Outside Ebbing, Missouri;Three Billboards Outside Ebbing, Missouri;0.0;2017.0;115;Comedy,Crime,Drama
+Trainspotting;1996;167;8.1;tt0117951;movie;Trainspotting;Trainspotting;0.0;1996.0;93;Drama
+Warrior;2011;168;8.1;tt1291584;movie;Warrior;Warrior;0.0;2011.0;140;Action,Drama,Sport
+Gran Torino;2008;169;8.1;tt1205489;movie;Gran Torino;Gran Torino;0.0;2008.0;116;Drama
+Fargo;1996;170;8.1;tt0116282;movie;Fargo;Fargo;0.0;1996.0;98;Crime,Thriller
+Prisoners;2013;171;8.1;tt1392214;movie;Prisoners;Prisoners;0.0;2013.0;153;Crime,Drama,Mystery
+My Neighbor Totoro;1988;172;8.1;tt0096283;movie;My Neighbor Totoro;Tonari no Totoro;0.0;1988.0;86;Animation,Comedy,Family
+Million Dollar Baby;2004;173;8.1;tt0405159;movie;Million Dollar Baby;Million Dollar Baby;0.0;2004.0;132;Drama,Sport
+Catch Me If You Can;2002;174;8.1;tt0264464;movie;Catch Me If You Can;Catch Me If You Can;0.0;2002.0;141;Biography,Crime,Drama
+The Gold Rush;1925;175;8.1;tt0015864;movie;The Gold Rush;The Gold Rush;0.0;1925.0;95;Adventure,Comedy,Drama
+Blade Runner;1982;176;8.1;tt0083658;movie;Blade Runner;Blade Runner;0.0;1982.0;117;Action,Drama,Sci-Fi
+On the Waterfront;1954;177;8.1;tt0047296;movie;On the Waterfront;On the Waterfront;0.0;1954.0;108;Crime,Drama,Thriller
+Children of Heaven;1997;178;8.1;tt0118849;movie;Children of Heaven;Bacheha-Ye aseman;0.0;1997.0;89;Drama,Family,Sport
+The Third Man;1949;179;8.1;tt0041959;movie;The Third Man;The Third Man;0.0;1949.0;104;Film-Noir,Mystery,Thriller
+Ben-Hur;1959;180;8.1;tt0052618;movie;Ben-Hur;Ben-Hur;0.0;1959.0;212;Adventure,Drama
+Before Sunrise;1995;181;8.1;tt0112471;movie;Before Sunrise;Before Sunrise;0.0;1995.0;101;Drama,Romance
+Everything Everywhere All at Once;2022;182;8.1;tt6710474;movie;Everything Everywhere All at Once;Everything Everywhere All at Once;0.0;2022.0;139;Action,Adventure,Comedy
+12 Years a Slave;2013;183;8.1;tt2024544;movie;12 Years a Slave;12 Years a Slave;0.0;2013.0;134;Biography,Drama,History
+Wild Strawberries;1957;184;8.1;tt0050986;movie;Wild Strawberries;Smultronstället;0.0;1957.0;91;Drama,Romance
+The General;1926;185;8.1;tt0017925;movie;The General;The General;0.0;1926.0;67;Action,Adventure,Comedy
+Gone Girl;2014;186;8.1;tt2267998;movie;Gone Girl;Gone Girl;0.0;2014.0;149;Drama,Mystery,Thriller
+Harry Potter and the Deathly Hallows: Part 2;2011;187;8.1;tt1201607;movie;Harry Potter and the Deathly Hallows: Part 2;Harry Potter and the Deathly Hallows: Part 2;0.0;2011.0;130;Adventure,Fantasy,Mystery
+The Deer Hunter;1978;188;8.1;tt0077416;movie;The Deer Hunter;The Deer Hunter;0.0;1978.0;183;Drama,War
+In the Name of the Father;1993;189;8.1;tt0107207;movie;In the Name of the Father;In the Name of the Father;0.0;1993.0;133;Biography,Crime,Drama
+The Grand Budapest Hotel;2014;190;8.1;tt2278388;movie;The Grand Budapest Hotel;The Grand Budapest Hotel;0.0;2014.0;99;Adventure,Comedy,Crime
+Barry Lyndon;1975;191;8.1;tt0072684;movie;Barry Lyndon;Barry Lyndon;0.0;1975.0;185;Adventure,Drama,War
+Mr. Smith Goes to Washington;1939;192;8.1;tt0031679;movie;Mr. Smith Goes to Washington;Mr. Smith Goes to Washington;0.0;1939.0;129;Comedy,Drama
+The Wages of Fear;1953;193;8.1;tt0046268;movie;The Wages of Fear;Le salaire de la peur;0.0;1953.0;131;Adventure,Drama,Thriller
+Sherlock Jr.;1924;194;8.1;tt0015324;movie;Sherlock Jr.;Sherlock Jr.;0.0;1924.0;45;Action,Comedy,Romance
+Hacksaw Ridge;2016;195;8.1;tt2119532;movie;Hacksaw Ridge;Hacksaw Ridge;0.0;2016.0;139;Biography,Drama,History
+Memories of Murder;2003;196;8.1;tt0353969;movie;Memories of Murder;Salinui chueok;0.0;2003.0;131;Crime,Drama,Mystery
+Klaus;2019;197;8.1;tt4729430;movie;Klaus;Klaus;0.0;2019.0;96;Adventure,Animation,Comedy
+Wild Tales;2014;198;8.1;tt3011894;movie;Wild Tales;Relatos salvajes;0.0;2014.0;122;Comedy,Drama,Thriller
+The Seventh Seal;1957;199;8.1;tt0050976;movie;The Seventh Seal;Det sjunde inseglet;0.0;1957.0;96;Drama,Fantasy
+Room;2015;200;8.1;tt3170832;movie;Room;Room;0.0;2015.0;118;Drama,Thriller
+Mad Max: Fury Road;2015;201;8.1;tt1392190;movie;Mad Max: Fury Road;Mad Max: Fury Road;0.0;2015.0;120;Action,Adventure,Sci-Fi
+How to Train Your Dragon;2010;202;8.1;tt0892769;movie;How to Train Your Dragon;How to Train Your Dragon;0.0;2010.0;98;Action,Adventure,Animation
+The Big Lebowski;1998;203;8.1;tt0118715;movie;The Big Lebowski;The Big Lebowski;0.0;1998.0;117;Comedy,Crime
+Mary and Max;2009;204;8.1;tt0978762;movie;Mary and Max;Mary and Max.;0.0;2009.0;92;Animation,Comedy,Drama
+Monsters, Inc.;2001;205;8.1;tt0198781;movie;Monsters, Inc.;Monsters, Inc.;0.0;2001.0;92;Adventure,Animation,Comedy
+Jaws;1975;206;8.1;tt0073195;movie;Jaws;Jaws;0.0;1975.0;124;Adventure,Thriller
+Dead Poets Society;1989;207;8.1;tt0097165;movie;Dead Poets Society;Dead Poets Society;0.0;1989.0;128;Comedy,Drama
+Tokyo Story;1953;208;8.1;tt0046438;movie;Tokyo Story;Tôkyô monogatari;0.0;1953.0;136;Drama
+The Passion of Joan of Arc;1928;209;8.1;tt0019254;movie;The Passion of Joan of Arc;La passion de Jeanne d'Arc;0.0;1928.0;110;Biography,Drama,History
+Hotel Rwanda;2004;210;8.1;tt0395169;movie;Hotel Rwanda;Hotel Rwanda;0.0;2004.0;121;Biography,Drama,History
+Rocky;1976;211;8.0;tt0075148;movie;Rocky;Rocky;0.0;1976.0;120;Drama,Sport
+Ford v Ferrari;2019;212;8.0;tt1950186;movie;Ford v Ferrari;Ford v Ferrari;0.0;2019.0;152;Action,Biography,Drama
+Platoon;1986;213;8.0;tt0091763;movie;Platoon;Platoon;0.0;1986.0;120;Drama,War
+Pather Panchali;1955;214;8.0;tt0048473;movie;Pather Panchali;Pather Panchali;0.0;1955.0;125;Drama
+Stand by Me;1986;215;8.0;tt0092005;movie;Stand by Me;Stand by Me;0.0;1986.0;89;Adventure,Drama
+The Terminator;1984;216;8.0;tt0088247;movie;The Terminator;The Terminator;0.0;1984.0;107;Action,Sci-Fi
+Spotlight;2015;217;8.0;tt1895587;movie;Spotlight;Spotlight;0.0;2015.0;129;Biography,Crime,Drama
+Rush;2013;218;8.0;tt1979320;movie;Rush;Rush;0.0;2013.0;123;Action,Biography,Drama
+Logan;2017;219;8.0;tt3315342;movie;Logan;Logan;0.0;2017.0;137;Action,Drama,Sci-Fi
+Network;1976;220;8.0;tt0074958;movie;Network;Network;0.0;1976.0;121;Drama
+Ratatouille;2007;221;8.0;tt0382932;movie;Ratatouille;Ratatouille;0.0;2007.0;111;Adventure,Animation,Comedy
+Into the Wild;2007;222;8.0;tt0758758;movie;Into the Wild;Into the Wild;0.0;2007.0;148;Adventure,Biography,Drama
+The Wizard of Oz;1939;223;8.0;tt0032138;movie;The Wizard of Oz;The Wizard of Oz;0.0;1939.0;102;Adventure,Family,Fantasy
+Groundhog Day;1993;224;8.0;tt0107048;movie;Groundhog Day;Groundhog Day;0.0;1993.0;101;Comedy,Drama,Fantasy
+Before Sunset;2004;225;8.0;tt0381681;movie;Before Sunset;Before Sunset;0.0;2004.0;80;Drama,Romance
+The Exorcist;1973;226;8.0;tt0070047;movie;The Exorcist;The Exorcist;0.0;1973.0;122;Horror
+The Best Years of Our Lives;1946;227;8.0;tt0036868;movie;The Best Years of Our Lives;The Best Years of Our Lives;0.0;1946.0;170;Drama,Romance,War
+The Incredibles;2004;228;8.0;tt0317705;movie;The Incredibles;The Incredibles;0.0;2004.0;115;Action,Adventure,Animation
+To Be or Not to Be;1942;229;8.0;tt0035446;movie;To Be or Not to Be;To Be or Not to Be;0.0;1942.0;99;Comedy,Romance,War
+The Grapes of Wrath;1940;230;8.0;tt0032551;movie;The Grapes of Wrath;The Grapes of Wrath;0.0;1940.0;129;Drama
+The Battle of Algiers;1966;231;8.0;tt0058946;movie;The Battle of Algiers;La battaglia di Algeri;0.0;1966.0;121;Drama,War
+Rebecca;1940;232;8.0;tt0032976;movie;Rebecca;Rebecca;0.0;1940.0;130;Drama,Film-Noir,Mystery
+Hachi: A Dog's Tale;2009;233;8.0;tt1028532;movie;Hachi: A Dog's Tale;Hachi: A Dog's Tale;0.0;2009.0;93;Biography,Drama,Family
+Cool Hand Luke;1967;234;8.0;tt0061512;movie;Cool Hand Luke;Cool Hand Luke;0.0;1967.0;127;Crime,Drama
+Amores perros;2000;235;8.0;tt0245712;movie;Amores perros;Amores perros;0.0;2000.0;154;Drama,Thriller
+Pirates of the Caribbean: The Curse of the Black Pearl;2003;236;8.0;tt0325980;movie;Pirates of the Caribbean: The Curse of the Black Pearl;Pirates of the Caribbean: The Curse of the Black Pearl;0.0;2003.0;143;Action,Adventure,Fantasy
+La Haine;1995;237;8.0;tt0113247;movie;La Haine;La haine;0.0;1995.0;98;Crime,Drama
+My Father and My Son;2005;238;8.0;tt0476735;movie;My Father and My Son;Babam ve Oglum;0.0;2005.0;112;Drama,Family
+The 400 Blows;1959;239;8.0;tt0053198;movie;The 400 Blows;Les quatre cents coups;0.0;1959.0;99;Crime,Drama
+It Happened One Night;1934;240;8.0;tt0025316;movie;It Happened One Night;It Happened One Night;0.0;1934.0;105;Comedy,Romance
+Persona;1966;241;8.0;tt0060827;movie;Persona;Persona;0.0;1966.0;85;Drama,Thriller
+The Sound of Music;1965;242;8.0;tt0059742;movie;The Sound of Music;The Sound of Music;0.0;1965.0;172;Biography,Drama,Family
+Life of Brian;1979;243;8.0;tt0079470;movie;Life of Brian;Life of Brian;0.0;1979.0;94;Comedy
+The Handmaiden;2016;244;8.0;tt4016934;movie;The Handmaiden;Ah-ga-ssi;0.0;2016.0;145;Drama,Romance,Thriller
+Dersu Uzala;1975;245;8.0;tt0071411;movie;Dersu Uzala;Dersu Uzala;0.0;1975.0;142;Adventure,Biography,Drama
+Jai Bhim;2021;246;8.0;tt15097216;movie;Jai Bhim;Jai Bhim;0.0;2021.0;164;Crime,Drama,Mystery
+Aladdin;1992;247;8.0;tt0103639;movie;Aladdin;Aladdin;0.0;1992.0;90;Adventure,Animation,Comedy
+Gandhi;1982;248;8.0;tt0083987;movie;Gandhi;Gandhi;0.0;1982.0;191;Biography,Drama
+The Help;2011;249;8.0;tt1454029;movie;The Help;The Help;0.0;2011.0;146;Drama
+The Iron Giant;1999;250;8.0;tt0129167;movie;The Iron Giant;The Iron Giant;0.0;1999.0;86;Action,Adventure,Animation
