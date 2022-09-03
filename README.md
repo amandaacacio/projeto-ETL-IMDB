@@ -1,4 +1,4 @@
-# Projeto de ETL de dados do IMDB
+# Projeto de ETL com dados do IMDB
 
 Para a elaboração e construção deste projeto, foram utilizados dados disponibilizados pelo site do IMDB referente à todos os títulos de filmes avaliados pelo site. Também utilizamos a página do IMDB que apresenta os 250 filmes mais bem avaliados do portal para a realização do web scraping. Optamos por utilizar os dados da raspagem dos 250 filmes mais bem avaliados e integrar com as informações de cada filme que a página não apresenta.
 
